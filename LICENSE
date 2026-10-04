@@ -1,0 +1,120 @@
+VANLISHEDZ MOD LICENSE
+Version 1.0 — 2026-10-04
+
+Copyright (c) 2026 vanlishedz
+All rights reserved, except for the limited permissions expressly granted below.
+
+This is a custom, restrictive license. It is not an OSI-approved open-source
+license. Public distribution of an official binary does not publish or license
+the private source code, and does not place any part of the Project in the
+public domain.
+
+1. DEFINITIONS
+
+"Project" means the Inventario Ordenado mod, official binaries, source code,
+documentation, artwork, and other materials created for it by the Owner,
+excluding Third-Party Materials.
+
+"Owner" means vanlishedz, the copyright holder offering this license.
+
+"You" means the individual or legal entity exercising a permission under this
+license.
+
+"Modified Version" means a copy of the Project that has been altered, adapted,
+translated, combined with other material, or otherwise changed, including a
+source-code fork or a compiled binary made from changed source.
+
+"Third-Party Materials" means materials in the repository identified as being
+owned by someone other than the Owner or governed by separate terms.
+
+"Commercial Purpose" means an activity primarily intended for commercial
+advantage or monetary compensation, including sale, paid access, advertising,
+sponsorship, or monetization of the Project or a Modified Version.
+
+2. LIMITED PERMISSIONS
+
+Subject to compliance with this license, the Owner grants You a limited,
+worldwide, non-exclusive, non-transferable, non-sublicensable, royalty-free
+permission to:
+
+a. download, install, execute, and retain an unmodified official binary of the
+   Project for Your own personal, non-commercial use;
+b. privately modify a copy of the Project for Your own personal,
+   non-commercial use, if You lawfully have access to the necessary source; and
+c. redistribute an unmodified copy of an official Project release for
+   non-commercial use, provided that You include this license and all copyright
+   and attribution notices, do not charge for the Project itself, and identify
+   the official release and its official download page.
+
+You may include an unmodified official release in a non-commercial modpack if
+You preserve the notices and link to the official download page. This does
+not authorize redistribution of a Modified Version.
+
+3. RESTRICTIONS
+
+Unless the Owner gives You separate prior written permission, You may not:
+
+a. publish, distribute, sublicense, sell, rent, or otherwise make available a
+   Modified Version, in source or binary form, including through a public
+   fork, download site, mod platform, modpack, or other repository;
+b. use the Project or a Modified Version for a Commercial Purpose;
+c. remove or alter copyright, license, or attribution notices; or
+d. state or imply that a Modified Version is an official release or is
+   endorsed by the Owner.
+
+Private modifications permitted by Section 2(b) must remain private and may not
+be shared with another person unless the Owner separately authorizes that
+sharing in writing. Access to a private source repository is a separate
+permission and does not itself grant rights to distribute the source or
+Modified Versions.
+
+4. CONTRIBUTIONS
+
+Contributions are governed by the separate Contributor License Agreement
+(CONTRIBUTING.md). A contribution is not accepted into the Project unless its
+author has expressly agreed to that agreement. The agreement allows the Owner
+to use and license accepted contributions, including as part of a commercial
+or differently licensed offering; the contributor retains copyright in their
+contribution. This section does not grant contributors or collaborators a
+general right to distribute Modified Versions.
+
+5. THIRD-PARTY MATERIALS AND TRADEMARKS
+
+Third-Party Materials are not licensed by this document; their own notices and
+license terms apply. This license does not grant rights to Minecraft, Fabric,
+other third-party names, trademarks, or services. The Project is independent
+and is not endorsed by or affiliated with Mojang or Microsoft.
+
+6. RESERVATION OF RIGHTS
+
+All rights not expressly granted in this license are reserved by the Owner.
+The Owner may distribute the Project under other terms and may grant separate
+permissions, including commercial permissions. Nothing in this license
+transfers ownership of the Project or grants You a right to use the Owner's
+name, logo, or other marks except to identify the unmodified official Project.
+
+7. TERMINATION
+
+The permissions granted to You terminate automatically if You materially
+violate this license. They may be reinstated if the Owner confirms in writing
+that the violation has been cured. Termination does not affect permissions
+granted to recipients who comply with this license.
+
+8. DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PROJECT IS PROVIDED "AS
+IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE OWNER
+IS NOT LIABLE FOR ANY CLAIM, LOSS, OR DAMAGE ARISING FROM USE OF THE PROJECT
+OR THIS LICENSE.
+
+9. GENERAL
+
+If a provision is unenforceable, it will be limited to the minimum extent
+necessary, and the remaining provisions will remain in effect. This license
+does not exclude rights that cannot lawfully be excluded. No change or
+additional permission is effective unless made in writing by the Owner.
+
+For questions or permission requests, contact the Owner through the contact
+method published with the official releases.
